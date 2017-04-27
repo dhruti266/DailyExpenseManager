@@ -1,0 +1,21 @@
+#incbtn,#expbtn{
+    font-size: large;
+}
+#inc-exp{
+    padding: 0;
+    margin: 20px 30px;
+}
+
+
+#part3{
+    padding: 20px 0 0 80px;
+}
+#log-out{
+    padding: 5px;
+    margin-bottom: 15px;
+    align-content: stretch;
+}
+
+#save-reset_btn {
+    margin: 20px 0;
+}

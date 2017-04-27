@@ -1,0 +1,20 @@
+#dropdown-category li a:hover {background-color: #f1f1f1}
+#dropdown-category {
+    overflow: auto;
+    height: 150px;
+}
+#dropdown-month li a:hover {background-color: #f1f1f1}
+#dropdown-month {
+    overflow: auto;
+    height: 150px;
+}
+
+.modal-body {
+    overflow: auto;
+}
+
+#popup-save button {
+    width: 20%;
+    float: right;
+    margin-right: 10px;
+}
